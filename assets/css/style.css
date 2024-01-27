@@ -733,15 +733,14 @@ section {
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
+  
 }
 
 .services .title a {
-  color: #343a40;
-}
-
-.services .title a:hover {
   color: #149ddd;
 }
+
+
 
 .services .description {
   margin-left: 80px;
